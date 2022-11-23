@@ -26,7 +26,7 @@
     "nodemailer": "^6.4.10",
     "nodemailer-express-handlebars": "^4.0.0",
     "sharp": "^0.25.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "socket.io-cookie-parser": "^1.0.0"
   },
   "devDependencies": {
